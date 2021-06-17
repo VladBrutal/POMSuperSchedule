@@ -1,0 +1,1 @@
+17:15:07 2830 [Test worker] INFO  config.AppiumListener - Start find element -->By.xpath: //*[@resource-id='com.example.svetlana.scheduler:id/app_version_res']

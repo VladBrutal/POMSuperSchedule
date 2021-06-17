@@ -1,0 +1,9 @@
+09:33:52 2975 [Test worker] INFO  config.AppiumListener - Start find element -->By.xpath: //*[@resource-id='com.example.svetlana.scheduler:id/app_version_res']
+09:33:52 3397 [Test worker] INFO  config.AppiumListener - Start find element -->By.chained({By.xpath: //*[@resource-id ='com.example.svetlana.scheduler:id/log_email_input']})
+09:33:55 5652 [Test worker] INFO  config.AppiumListener - Start find element -->By.chained({By.xpath: //*[@resource-id ='com.example.svetlana.scheduler:id/log_email_input']})
+09:33:56 6515 [Test worker] INFO  config.AppiumListener - Start find element -->By.chained({By.xpath: //*[@resource-id ='com.example.svetlana.scheduler:id/log_email_input']})
+09:33:57 7832 [Test worker] INFO  config.AppiumListener - Start find element -->By.chained({By.xpath: //*[@resource-id='com.example.svetlana.scheduler:id/log_password_input']})
+09:33:58 8640 [Test worker] INFO  config.AppiumListener - Start find element -->By.chained({By.xpath: //*[@resource-id='com.example.svetlana.scheduler:id/log_password_input']})
+09:33:58 9409 [Test worker] INFO  config.AppiumListener - Start find element -->By.chained({By.xpath: //*[@resource-id='com.example.svetlana.scheduler:id/log_password_input']})
+09:34:01 12362 [Test worker] INFO  config.AppiumListener - Start find element -->By.chained({By.xpath: //*[@resource-id='com.example.svetlana.scheduler:id/login_btn']})
+09:34:02 13046 [Test worker] INFO  config.AppiumListener - Start find element -->By.chained({By.xpath: //*[@resource-id='com.example.svetlana.scheduler:id/login_btn']})
